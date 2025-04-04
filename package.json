@@ -9,7 +9,7 @@
   "dependencies": {
     "lodash": "4.17.11",
     "minimist": "0.0.8",
-    "handlebars": "4.0.11",
+    "handlebars": "4.7.8",
     "event-stream": "3.3.6" 
   }
 }
